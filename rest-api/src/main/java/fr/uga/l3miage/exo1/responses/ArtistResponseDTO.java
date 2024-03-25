@@ -1,4 +1,4 @@
-package fr.uga.l3miage.exo1.response;
+package fr.uga.l3miage.exo1.responses;
 
 import fr.uga.l3miage.exo1.enums.GenreMusical;
 import io.swagger.v3.oas.annotations.media.Schema;
